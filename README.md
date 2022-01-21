@@ -28,6 +28,6 @@ This is a simple calculator which is made with the help of node frameworks.
 
 #### Graphical interface:
 
-<img src="./1.png">
-<img src="./2.png">
-<img src="./3.png">
+<img src="./public/1.png">
+<img src="./public/2.png">
+<img src="./public/3.png">
