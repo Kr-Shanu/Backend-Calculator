@@ -17,7 +17,7 @@ This is a simple calculator which is made with the help of node frameworks.
 * Step 4: Go to your browser and type http://localhost:3000.
 * Step 5: Enjoy your calculator.
 
-#### The calculator is capable doing some limited operations like:
+#### The calculator is capable of doing some limited operations only like:
 
          +  : Addittion 
          -  : Subtraction
