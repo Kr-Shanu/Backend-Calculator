@@ -1,0 +1,23 @@
+<%- include("partials/header"); %>
+
+
+    <div id="outer" class="text-center" style="align-items: center;">
+        <form action="/" method="post">
+            <br>
+            <br>
+            <div class="form-floating mb-3 ">
+                <input style="width: 450px;" type="number" class="form-control mb-1 mx-sm-1 " name="operand1" id="floatingInput" placeholder="operand 1">
+            </div>
+            <div class="form-floating mb-3 ">
+                <input style="width: 450px;" type="text" class="form-control mb-1 mx-sm-1" name="operator" id="floatingInput" placeholder="operator">
+            </div>
+            <div class="form-floating">
+                <input style="width: 450px;" type="number" class="form-control mb-1 mx-sm-1" name="operand2" id="floatingPassword" placeholder="operand 2">
+            </div>
+            <br>
+            <button type="submit" class="btn btn-lg btn-dark">=</button>
+        </form>
+    </div>
+
+
+    <%- include("partials/footer"); %>
