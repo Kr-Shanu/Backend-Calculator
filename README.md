@@ -4,10 +4,10 @@ This is a simple calculator which is made with the help of node frameworks.
 
     #####Frameworks used are:
 
-        *express
-        *body-parser
-        *ejs
-        *nodemon
+        -express
+        -body-parser
+        -ejs
+        -nodemon
 
 #### Steps to make application working:
 
@@ -15,18 +15,19 @@ This is a simple calculator which is made with the help of node frameworks.
 * Step 2: Go to the file path on terminal and type ```npm install``` or ```npm i```.
 * Step 3: In the same path on terminal type ```node app.js``` or ```nodemon app.js```. 
 * Step 4: Go to your browser and type http://localhost:3000.
+* Step 5: Enjoy your calculator.
 
 #### The calculator is capable doing some limited operations like:
 
-        * +  : Addittion 
-        * -  : Subtraction
-        * *  : Multiplication
-        * /  : Division
-        * ** : Power
+         +  : Addittion 
+         -  : Subtraction
+         *  : Multiplication
+         /  : Division
+         ** : Power
 
 
 #### Graphical interface:
 
-![plot](/1.png)
-![plot](/2.png)
-![plot](/3.png)
+<img src="./1.png">
+<img src="./2.png">
+<img src="./3.png">
